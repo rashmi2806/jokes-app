@@ -1,6 +1,6 @@
-😆 Jokes App: 
+😆 Jokes App
 
-A simple React application that generates random jokes to lighten up your mood.
+  A simple React application that generates random jokes to lighten up your mood.
 
 🚀 Features
 
