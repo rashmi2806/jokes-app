@@ -3,6 +3,7 @@
 A simple React application that generates random jokes to lighten up your mood.
 
 🚀 Features
+
   Fetches random jokes from an API
   Simple and clean UI
   Refresh for a new joke
